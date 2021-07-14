@@ -8,7 +8,7 @@
 <h5>وضعیت سیستم</h5>
 </center>
 <br>
-<h4 style="background-color:#FFA500; color:#FFFFFF; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:20px 20px;">blogo تعیین خطا در </h4>
+<h4 style="background-color:#FFA500; color:#FFFFFF; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:20px 20px;">blogo تعیین نرخ خطا در  </h4>
 
 <hr>
 <br>
