@@ -10,7 +10,7 @@
 
 <hr>
 
-<h4 style="background-color:#9370DB; ; color:#FFFFFF; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:90px 90px;">شروع کن زیبایی : 30درصد -کارایی :70 درصد</h4>
+<h4 style="background-color:#9370DB; ; color:#FFFFFF; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:90px 90px;">صفحه شروع کن زیبایی : 30درصد -کارایی :70 درصد </h4>
 <br>
 <h4 style=" background-color:#9370DB; color:#FFFFFF; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:90px 90px;">صفحه اصلی زیبایی : 40 درصد کارایی :85 درصد </h4>
 <br>
