@@ -6,3 +6,5 @@
 <center> 
 <h5>وضعیت سیستم</h5>
 </center>
+<hr>
+<h3 style="background-color:#FFA500; color:#FFFFFF; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:20px 20px;">افزایش  نرخ در blogo</h3>
