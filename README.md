@@ -19,6 +19,3 @@
 <br>
 <h4 style="  color:#9370DB; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:2px 100px;">نمای کلی واکنش : خطا </h4>
 <br>
-<center> 
-<h5>بروز رسانی بعدی نشانه ها به صفحه اصلی انتقال <br> پیدا می کنند و نوشته ها به جای نشانه ها انتقال انجام میشه</h5>
-</center>
