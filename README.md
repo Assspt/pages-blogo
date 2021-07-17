@@ -25,3 +25,5 @@
 <br>
 <h4 style="  color:#9370DB; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:2px 100px;">نمای کلی واکنش : خوب </h4>
 <br>
+<h4 style="  color:#FFA500; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:2px 100px;">مشکل در دکمه ثبت دکمه ثبت کار نمی کند در واتساپ پیام بدید</h4>
+<br>
